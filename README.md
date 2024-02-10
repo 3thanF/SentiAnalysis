@@ -35,11 +35,6 @@ Este proyecto es una iniciativa de estudiantes de la Universidad Fidelitas, cuyo
 
 5. **Evaluación y Recomendaciones:** Análisis de los resultados obtenidos de los modelos predictivos y formulación de recomendaciones para el desarrollo de futuros juegos.
 
-## Equipo
-
-Este proyecto es llevado a cabo por un grupo de estudiantes apasionados de la Universidad Fidelitas, comprometidos con la aplicación de la tecnología para entender y predecir tendencias en el mercado de juegos móviles.
-
-
 ---
 
 Universidad Fidelitas - Proyecto de BI y ML en Juegos de Google Play Store
