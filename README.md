@@ -2,10 +2,10 @@
 
 ## Equipo
 
-Este proyecto fue liderado por @3thanF, quien se encargó de la toma de decisiones pertinentes en el proyecto y la selección de los datos así como las tecnologías para el proyecto. Agradecemos enormemente a todos los miembros del equipo por su dedicación y esfuerzo:
+Este proyecto fue liderado por **[@3thanF](https://github.com/3thanF)**, quien se encargó de la toma de decisiones pertinentes en el proyecto y la selección de los datos así como las tecnologías para el proyecto. Agradecemos enormemente a todos los miembros del equipo por su dedicación y esfuerzo:
 
-- @hermondez: Encargado de la documentación pertinente del proyecto.
-- @KeylinJA: Encargada del proceso ETL del proyecto.
+- **[@hermondez](https://github.com/hermondez)**: Encargado de la documentación pertinente del proyecto.
+- **[@KeylinJA](https://github.com/KeylinJA)**: Encargada del proceso ETL del proyecto.
 
 ## Descripción
 
